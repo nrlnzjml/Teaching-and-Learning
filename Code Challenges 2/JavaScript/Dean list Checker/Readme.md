@@ -43,7 +43,7 @@ Your task is to create a single HTML file with embedded JavaScript to process st
 When your HTML file is opened, the page must dynamically render a clear list of all student outcomes.
 
 **Expected Browser Output:**
-![Expected Program Output](assets/expected_output.png)
+![Expected Program Output](assets/output.png)
 
 *(Note: The exact styling and formatting (like colors/divs) can vary, but the information displayed must be accurate.)*
 
